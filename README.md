@@ -1,44 +1,27 @@
-# Code Challenge
+# Laravel PHP Framework
 
-## Why?
+[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
+[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
+[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Code challenges are a fantastic way to figure out how you think and write code, with small, to-the-point projects.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
-## What?
+Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-You are going to to be creating a link shortener. This link shortener must:
+## Official Documentation
 
-1. Get a URL as an initial data.
-2. Shorten it and return the shortened URL to the user.
-3. Keep track of the shortened URL usage:
-  1. Keep a counter on how many times the URL has been used.
-  2. Record the IP address that called the URL, as well as the complete timestamp.
-4. Provide a very simple interface to visualize the statistics of each shortened URL.
+Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-## How?
+## Contributing
 
-1. Fork this repository.
-2. Work in the project.
-3. When you are done, tag the source code as V1.0
-4. Let me know that you have finished!
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-## With what?
+## Security Vulnerabilities
 
-1. Use any development language you want. Preferred are:
-  1. Ruby
-  2. Go
-  3. PHP
-  4. Python
-  5. Java
-  6. Javascript
-2. Use any framework and tools you want, as long as you can commit the necessary files.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-## Bonus points if you...
+## License
 
-* Deploy your code to [Heroku](https://www.heroku.com/)
-* Provide good documentation
-* Finish your project in 3 hours or less
-
-## Last, but not least..
-
-Good luck!
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
